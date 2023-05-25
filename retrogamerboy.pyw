@@ -241,6 +241,7 @@ class MainFrame(tkinter.Frame):
 			self.set_entry_text(self.entry_publisher, model_game["publisher"])
 			self.set_entry_text(self.entry_studio, model_game["studio"])
 			self.set_entry_text(self.entry_link, model_game["link"])
+			self.on_send_to_text_click()
 			
 	def set_sheet_data_simple_values_to_model(self, data, start_row, row_id_to_game, model, field_name):
 		row_id = start_row
