@@ -1,4 +1,4 @@
-# IndieGameBoy
+# RetroGameBoy
 
 1. Télécharger et installer python 3:
 https://www.python.org/downloads/
@@ -31,6 +31,6 @@ pip install twitchio
 
 6. Double cliquer sur le fichier "grant_permissions.bat" et suivre les instructions
 
-7. Double cliquer sur le fichier "indiegamerboy.pyw"
+7. Double cliquer sur le fichier "retrogamerboy.pyw"
 
 Toutes les valeurs seront mises à jour lors d'un clique sur le bouton "Envoyer vers les fichiers textes"
